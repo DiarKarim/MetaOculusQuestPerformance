@@ -1,0 +1,183 @@
+<QTM_Model_Ver_1.00>
+    <Body_1>
+        <Trajectories>
+            <Trajectory>
+                <Name>Body_1 - 1</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_1 - 2</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_1 - 3</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_1 - 4</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_1 - 5</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>m2</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>m1</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>m4</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>m3</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>m5</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_3 - 1</Name>
+                <Color R="255" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_3 - 2</Name>
+                <Color R="255" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_3 - 3</Name>
+                <Color R="255" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>fingertip</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 1</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 2</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 3</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 4</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 5</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 6</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 7</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 8</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 9</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 10</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 11</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 12</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 13</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 14</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 15</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 16</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 17</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Body_2 - 18</Name>
+                <Color R="0" G="0" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>hm1</Name>
+                <Color R="255" G="0" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>hm2</Name>
+                <Color R="255" G="0" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>hm3</Name>
+                <Color R="255" G="0" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>hm4</Name>
+                <Color R="255" G="0" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>hm5</Name>
+                <Color R="255" G="0" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>idx1</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>mdx1</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>mdx2</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>mdx3</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+        </Trajectories>
+        <Bones>
+            <Bone>
+                <Index Low="38" High="39"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>117.641962</Length>
+                <MaxLength>117.641962</MaxLength>
+                <MinLength>117.641962</MinLength>
+                <MaxRange>11.440013</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+        </Bones>
+        <Relations/>
+        <FilesUsed>1</FilesUsed>
+    </Body_1>
+</QTM_Model_Ver_1.00>
